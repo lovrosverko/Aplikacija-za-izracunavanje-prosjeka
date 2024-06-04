@@ -1,0 +1,10 @@
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\bin\Debug\prosjekOcjenaFormsKolekcije.exe.config
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\bin\Debug\prosjekOcjenaFormsKolekcije.exe
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\bin\Debug\prosjekOcjenaFormsKolekcije.pdb
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\obj\Debug\prosjekOcjenaFormsKolekcije.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\obj\Debug\prosjekOcjenaFormsKolekcije.Form1.resources
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\obj\Debug\prosjekOcjenaFormsKolekcije.Properties.Resources.resources
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\obj\Debug\prosjekOcjenaFormsKolekcije.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\obj\Debug\prosjekOcjenaFormsKolekcije.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\obj\Debug\prosjekOcjenaFormsKolekcije.exe
+C:\Users\Lovro\source\repos\prosjekOcjenaFormsKolekcije\prosjekOcjenaFormsKolekcije\obj\Debug\prosjekOcjenaFormsKolekcije.pdb
